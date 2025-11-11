@@ -25,18 +25,25 @@ export default function Skills() {
       company: "DigitalExcel",
       role: "Frontend Web Developer",
       period: "Oct 2024 - Dec 2024",
-      description:
-        "Developed innovative solutions for Google's core search algorithms, optimizing search accuracy and user experience. Developed innovative solutions for Google's core search algorithms, optimizing search accuracy and user experience. Developed innovative solutions for Google's core search algorithms, optimizing search accuracy and user experience. Developed innovative solutions for Google's core search algorithms, optimizing search accuracy and user experience.",
-      logo: "/assets/google.svg",
+      description: 
+        `Worked on designing and developing responsive WordPress websites for e-commerce stores, schools, and colleges. \n
+Customized themes and plugins to match client requirements and improve user experience.
+Collaborated with backend developers and designers to ensure smooth functionality and performance.
+Optimized websites for speed, SEO, and mobile responsiveness to enhance engagement and conversions.`,
+      // logo: "/assets/google.svg",
     },
     {
       id: 2,
       company: "Freelancer",
       role: "Web Developer",
-      period: "Jan 2022 - Oct 2024",
+      // period: "Jan 2022 - Oct 2024",
       description:
-        "At Youtube, I served as a  Software Engineer, focusing on the design and implementation of backend systems for the social media giant's dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.",
-      logo: "/assets/youtube.svg",
+          `Developed and customized responsive WordPress websites for e-commerce businesses, schools, and colleges.
+Created user-friendly interfaces and optimized site performance for speed and SEO.
+Integrated payment gateways, plugins, and custom features to meet unique client needs.
+Worked closely with clients to deliver clean, modern, and high-converting websites on time.`,
+
+      // logo: "/assets/youtube.svg",
     },
   ]);
 
@@ -104,7 +111,7 @@ export default function Skills() {
             >
               <div className="flex justify-between flex-col items-start lg:flex-row lg:items-center">
                 <div className="flex items-center gap-5">
-                  <img className="w-7" src={exp.logo} alt="" />
+                  {/* <img className="w-7" src={exp.logo} alt="" /> */}
                   <h2 className="font-semibold text-white text-lg lg:text-xl">
                     {exp.role} at {exp.company}
                   </h2>

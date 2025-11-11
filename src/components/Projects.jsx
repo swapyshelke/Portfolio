@@ -8,35 +8,35 @@ const projects = [
     title: "Real Time Code Editor",
     description: "A powerfull tool for coding with your friends, in real time. Build using Websockets.",
     image: "/assets/project1.png",
-    link: "real-time-code-editor-swapnilshelke.netlify.app"
+    link: "https://real-time-code-editor-swapnilshelke.netlify.app"
   },
     {
     id: 2,
     title: "Ambient Audio Mixer",
     description: "Platform where users can listen and mix all kinds of ambient music. \n Build in Vanilla JS, HMTL and CSS",
     image: "/assets/project2.png",
-    link: " expensetracker-swapyshelke.netlify.app"
+    link: "https://ambient-swapnilshelke.netlify.app"
   },
   {
     id: 3,
     title: "Expense Tracker",
     description: "React Mini Project, where user can track their expenses \n ",
     image: "/assets/project3.png",
-    link: " expensetracker-swapyshelke.netlify.app"
+    link: "https://expensetracker-swapyshelke.netlify.app"
   },
   {
         id: 4,
         title: "Quick Notes Taking App",
         description: "This is Vanilla JavaScript App. \n ",
         image: "/assets/project4.png",
-        link: " expensetracker-swapyshelke.netlify.app"
+        link: "https://quick-notes-swapyshelke.netlify.app"
       },
   {
         id: 5,
         title: "Todo App - Foucus on Today",
         description: "This is Vanilla JavaScript App. \n ",
         image: "/assets/project5.png",
-        link: " expensetracker-swapyshelke.netlify.app"
+        link: "https://modern-todos-swapnilshelke.netlify.app"
       },
 
 ];
