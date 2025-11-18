@@ -30,11 +30,11 @@ export default function About() {
         </p>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
-          My web development journey started in **2015**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **Next.js, TypeScript, NestJS, TailwindCSS, Supabase, and more**.
+          My web development journey started in **2022**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **React.js, TypeScript,JavaScript, TailwindCSS, and more**.
         </p>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
-          Beyond coding, I enjoy sharing insights on **Twitter**, engaging with **Indie Hackers**, and following the journey of **early-stage startups**. Feel free to follow me on **Twitter** or check out my projects on **GitHub**.
+          Beyond coding, I enjoy sharing insights on **Linkedin**, engaging with **Indie Developers**, and following the journey of **early-stage startups**. Feel free to follow me on **Linkedin** or check out my projects on **GitHub**.
         </p>
       </motion.div>
     </div>
