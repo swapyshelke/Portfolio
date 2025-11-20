@@ -17,6 +17,4 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
 
 ## Deployment
 To deploy the portfolio website, you can use platforms like:
-- **Vercel**
 - **Netlify**
-- **GitHub Pages** (with additional configurations)
